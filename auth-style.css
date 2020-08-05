@@ -110,3 +110,25 @@ body {
     .form-wrap .help-text p {
       text-align: center;
       font-size: 14px; }
+
+
+
+
+#back-to-home-btn{
+  margin-left: 45%;
+  
+}
+
+
+#back-to-home-btn button{
+  border-bottom-left-radius: 25px;
+  border-top-right-radius: 25px;
+  padding: 10px;
+  font: 16px/26px "Raleway", sans-serif;
+}
+
+
+#back-to-home-btn button:hover{
+  border-color: #28A55F;
+  background-color: #4FDA8C;
+}
